@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
     <h1>HIKMAL</h1>
-      <img width={ukuran} src="/diri.jpg" />
+      <img width={ukuran} src="/diri.JPG" />
       <br />
       <button onClick={()=>{
         setUkuran(ukuran+20)
